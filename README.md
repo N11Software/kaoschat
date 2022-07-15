@@ -1,2 +1,2 @@
-# kaosvoice
-Kaos messaging and voice chat.
+# Kaos Chat
+Messaging and Voice Chat for Kaos.
